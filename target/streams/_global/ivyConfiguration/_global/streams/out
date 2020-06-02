@@ -1,0 +1,1 @@
+[warn] insecure HTTP request is deprecated 'http://sbt-android-mill.github.com/stopwatch/releases'; switch to HTTPS or opt-in as ("stopwatch" at "http://sbt-android-mill.github.com/stopwatch/releases").withAllowInsecureProtocol(true)
